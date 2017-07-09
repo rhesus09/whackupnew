@@ -1,0 +1,87 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/store/types.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/getters.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/support.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/stubs/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/stubs.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/state.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/store.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/types.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/items/types.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/auth.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/items/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/support.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/bootstrap.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/types.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/app.plugin.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/jPlayer/jquery.jplayer.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/jPlayer/popcorn/popcorn.jplayer.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/jPlayer/add-on/jquery.jplayer.inspector.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/api/users.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/jPlayer/add-on/jplayer.playlist.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/static/js/jPlayer/demo.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/api/clubs.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/json-server/articles.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/api/events.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/json-server/generate.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/module.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/api/articles.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/express/server.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/utils/api/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/actions.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/store/modules/user/mutations.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/store/types.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/getters.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/support.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/stubs/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/stubs.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/state.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/store.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/types.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/genres/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/items/types.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/auth.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/items/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/support.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/types.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/clubs/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/app.plugin.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/jPlayer/jquery.jplayer.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/jPlayer/popcorn/popcorn.jplayer.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/jPlayer/add-on/jquery.jplayer.inspector.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/api/users.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/jPlayer/add-on/jplayer.playlist.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/static/js/jPlayer/demo.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/api/clubs.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/json-server/articles.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/api/events.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/json-server/generate.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/module.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/api/articles.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/express/server.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/utils/api/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/actions.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/store/modules/user/mutations.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+/**
+ * Created by mariustanawatsamo on 29/06/2017.
+ */
+// Getters
+export const GET_GENRE_LIST = 'GET_GENRE_LIST'
+export const GET_GENRE_LIST_SELECTED = 'GET_GENRE_LIST_SELECTED'
+
+// Mutations
+
+export const MUTATION_GENRE_LIST = 'MUTATION_GENRE_LIST'
+export const MUTATION_GENRE_LIST_SELECTED = 'MUTATION_GENRE_LIST_SELECTED'
+
+// ACTIONS
+
+export const SET_GENRE_LIST = 'SET_GENRE_LIST'
+export const SET_LIST_SELECTED = 'SET_LIST_SELECTED'
