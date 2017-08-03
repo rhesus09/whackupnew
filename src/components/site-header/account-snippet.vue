@@ -38,19 +38,19 @@
       <li class="dropdown">
         <a href="#" class="dropdown-toggle bg clear" data-toggle="dropdown">
               <span class="thumb-sm avatar pull-right m-t-n-sm m-b-n-sm m-l-sm">
-                <img src="../../../images/a0.png" alt="...">
+                <img src="../../../images/user-512.png" alt="...">
               </span>
-          John.Smith <b class="caret"></b>
+          {{this.getCurrentUser}} <b class="caret"></b>
         </a>
         <ul class="dropdown-menu animated fadeInRight">
-          <li>
+       <!--   <li>
             <span class="arrow top"></span>
             <a href="#">Settings</a>
-          </li>
+          </li> !-->
           <li>
             <router-link to="/profile">Profile</router-link>
           </li>
-          <li>
+       <!--   <li>
             <a href="#">
               <span class="badge bg-danger pull-right">3</span>
               Notifications
@@ -59,7 +59,7 @@
           <li>
             <a href="docs.html">Help</a>
           </li>
-          <li class="divider"></li>
+          <li class="divider"></li>!-->
           <li>
             <a href="modal.lockme.html" data-toggle="ajaxModal">Logout</a>
           </li>
@@ -68,5 +68,17 @@
     </ul>
   </div>
 </template>
-<script></script>
+<script>
+  import * as types from '../../store/types'
+  import { mapGetters } from 'vuex'
+  export default {
+    data () {
+      return {
+      }
+    },
+    computed: {
+      ...mapGetters({getCurrentUser: types.GET_CURRENT_LOGGED_USER_PRENOM})
+    }
+  }
+</script>
 <style></style>

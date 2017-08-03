@@ -3,7 +3,7 @@
     <section class="vbox animated fadeInUp">
       <section class="scrollable hover">
         <div class="list-group no-radius no-border no-bg m-t-n-xxs m-b-none auto">
-          <el-select v-model="genre" multiple placeholder="Select" class="list-group-item  btn-default">
+          <el-select v-model="genre" multiple placeholder="Choisir un Genre" class="list-group-item  btn-default">
             <el-option
               v-for="item in getgenrelist"
               :key="item.idGenreClub"

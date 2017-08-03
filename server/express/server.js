@@ -9,7 +9,6 @@ const jwt = require('express-jwt')
 const jwks = require('jwks-rsa')
 const cors = require('cors')
 const bodyParser = require('body-parser')
-var jsonServer = require('json-server');
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
@@ -23,8 +22,8 @@ const authCheck = jwt({
     jwksUri: 'https://codecritics.eu.auth0.com/.well-known/jwks.json'
   }),
   // This is the identifier we set when we created the API
-  audience: 'http://localhost:3000',
-  issuer: 'https://codecritics.eu.auth0.com/',
+  audience: 'http://wackupapi.com',
+  issuer: '',
   algorithms: ['RS256']
 })
 

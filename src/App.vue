@@ -1,6 +1,7 @@
 <template>
   <section class="vbox">
     <router-view name='register'></router-view>
+    <router-view name='login'></router-view>
     <router-view name="header"></router-view>
     <router-view name="wrapper"></router-view>
     <router-view name="player"></router-view>

@@ -7,9 +7,10 @@
   import blog from './blog.vue'
   import clubs from './clubs.vue'
   import events from './events.vue'
-  import profile from './profile.vue'
+  import profile from './userprofile/index.vue'
+  import listen from './listen/index.vue'
   export default{
-    components: {blog, clubs, events, profile}
+    components: {blog, clubs, events, profile, listen}
   }
 </script>
 <style></style>

@@ -3,7 +3,7 @@
  */
 // Getters
 export const GET_CLUB_ITEM = 'GET_CLUB_ITEM'
-export const GET_CLUB_NAME = 'GET_CLUB_NAMe'
+export const GET_CLUB_NAME = 'GET_CLUB_NAME'
 
 // Mutations
 

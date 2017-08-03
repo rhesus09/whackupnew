@@ -2,13 +2,15 @@
  * Created by mariustanawatsamo on 29/06/2017.
  */
 import * as types from './types'
+import * as router from '../../../../router/index'
 // import * as stubs from './stubs'
 let state = {
   stub: [
     {'idGenreClub': 0, 'name': 'Hip-Hop'},
     {'idGenreClub': 1, 'name': 'Salsa'},
     {'idGenreClub': 2, 'name': 'Kizomba'},
-    {'idGenreClub': 3, 'name': 'Coupé Décalé'}
+    {'idGenreClub': 3, 'name': 'Coupé Décalé'},
+    {'idGenreClub': 4, 'name': 'Electro'}
   ],
   current: []
 }
@@ -22,6 +24,9 @@ export const getters = {
   },
   [types.GET_GENRE_LIST_SELECTED]: (state) => {
     return state.current
+  },
+  [types.GET_CURRENT_URI]: (state) => {
+    return router.currentRoute.params.id
   }
 }
 /**

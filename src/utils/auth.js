@@ -9,9 +9,9 @@ import auth0 from 'auth0-js'
 const ID_TOKEN_KEY = 'id_token'
 const ACCESS_TOKEN_KEY = 'access_token'
 
-const CLIENT_ID = 'PtUFOtX3Exs0z3EDzTRm37GqKzL6p6Jn'
-const CLIENT_DOMAIN = 'codecritics.eu.auth0.com'
-const REDIRECT = 'YOUR_CALLBACK_URL'
+const CLIENT_ID = 'hK9BDsVhBQm4kqJc3a0xoUGMKHcJp8nT'
+const CLIENT_DOMAIN = 'codecritic.eu.auth0.com'
+const REDIRECT = 'http://localhost:8080/callback'
 const SCOPE = '{SCOPE}'
 const AUDIENCE = 'AUDIENCE_ATTRIBUTE'
 

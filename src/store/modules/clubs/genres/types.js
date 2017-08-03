@@ -3,6 +3,7 @@
  */
 // Getters
 export const GET_GENRE_LIST = 'GET_GENRE_LIST'
+export const GET_CURRENT_URI = 'GET_CURRENT_URI'
 export const GET_GENRE_LIST_SELECTED = 'GET_GENRE_LIST_SELECTED'
 
 // Mutations
